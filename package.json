@@ -18,7 +18,7 @@
     "react-dom": "^17",
     "react-redux": "^7.2.4",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "^4",
+    "react-scripts": "^5.0.1",
     "seedrandom": "^3.0.5",
     "txtgen": "^2.2.4"
   },
@@ -48,5 +48,9 @@
   },
   "msw": {
     "workerDirectory": "public"
-  }
+  },
+  "description": "This project contains the setup and code from the \"Redux Essentials\" tutorial in the Redux docs ( https://redux.js.org/tutorials/essentials/part-1-overview-concepts ).",
+  "main": "prettier.config.js",
+  "author": "",
+  "license": "ISC"
 }
